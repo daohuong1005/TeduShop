@@ -17,6 +17,6 @@ namespace TeduShop.Model.Models
         public string ID { get; set; }
 
         [Required]
-        public string Cenntent { get; set; }
+        public string Content { get; set; }
     }
 }
